@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Portal</string>
+    <string name="onboarding_hello">Привет</string>
+    <string name="onboarding_good">Наслаждайся отборочными.\nБудь внимателен.\nДелай хорошо.</string>
+    <string name="onboarding_account_button">Войти в аккаунт</string>
+    <string name="onboarding_new_account">Еще нет аккаунта? Зарегистрируйтесь</string>
+    <string name="login_sign_in">Sign in</string>
+    <string name="login_email">Email</string>
+    <string name="login_password">Пароль</string>
+    <string name="login_register">Register</string>
+    <string name="login_profile">Профиль</string>
+    <string name="login_password_check">Повторите пароль</string>
+</resources>

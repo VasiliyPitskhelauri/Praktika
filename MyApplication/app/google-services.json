@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "712224777322",
+    "firebase_url": "https://praktika2022-662e1-default-rtdb.firebaseio.com",
+    "project_id": "praktika2022-662e1",
+    "storage_bucket": "praktika2022-662e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712224777322:android:a850edd2382d418dead613",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712224777322-83bd20ln1rsbcjodasdm0qhstonfppfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMWmK8kZRbMPELJRZLUwhz9MYY7dKFBE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712224777322-83bd20ln1rsbcjodasdm0qhstonfppfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712224777322:android:a337269b11cc221dead613",
+        "android_client_info": {
+          "package_name": "com.example.portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712224777322-83bd20ln1rsbcjodasdm0qhstonfppfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMWmK8kZRbMPELJRZLUwhz9MYY7dKFBE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712224777322-83bd20ln1rsbcjodasdm0qhstonfppfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
